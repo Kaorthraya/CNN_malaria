@@ -11,18 +11,18 @@ O dataset utilizado foi encontrado no [Kaggle](https://www.kaggle.com/iarunava/c
 	|
 	├── valid		#Usado para validação
 	|  |
-	|  ├── Infectado	#3000 imagens
+	|  ├── Infectado	
 	|  |
-	|  └── Desinfectado	#3000 imagens
+	|  └── Desinfectado	
 	|  
 	├── train
 	|  |
-	|  ├── Infectado	#10.779 imagens
+	|  ├── Infectado	
 	|  |
-	|  └── Desinfectado	#10.778 imagens
+	|  └── Desinfectado	
 	|
 	└──test
-	   └── test_folder	#Quantas imagens quiser
+	   └── test_folder
 
 ## Bibliotecas usadas
 

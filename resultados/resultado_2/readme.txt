@@ -1,5 +1,7 @@
-Resultado sob seguintes condições:
+#Resultado sob seguintes condiÃ§Ãµes:
 
-a) Os arquivos do test_folder foram retirados antes do treinamento (a CNN não teve nenhum acesso à eles)
+a) Os arquivos do test_folder foram retirados antes do treinamento (a CNN nÃ£o teve nenhum acesso Ã  eles)
+
 b) 100 arquivos (50 parasitados + 50 sem parasitas)
-c) Modelo pré-treinado: model.12-0.18.hdf5
+
+c) Modelo prÃ©-treinado: model.12-0.18.hdf5

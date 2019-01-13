@@ -33,6 +33,8 @@ Para gerenciar os pacotes, foi usado o gerenciador Anaconda 3, com Python versã
 	Tensorflow 1.10.0
 	Pandas 0.23.4
 	Pillow 5.3.0
+	Scikit-learn 0.20.2
+	Seaborn 0.9.0
 
 ## Descrição do projeto
 
